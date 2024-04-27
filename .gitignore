@@ -1,0 +1,13 @@
+# cache
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+docs
+hb_env
+*:Zone.Identifier
+
+# environment
+lib
+lib64
+bin
+pyvenv.cfg
